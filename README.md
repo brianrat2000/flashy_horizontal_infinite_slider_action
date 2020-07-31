@@ -1,1 +1,1 @@
-Flashy horizontal infinite slider with action buttons & toggle autoplay.
+Homemade flashy horizontal infinite slider with action buttons & toggle autoplay.
