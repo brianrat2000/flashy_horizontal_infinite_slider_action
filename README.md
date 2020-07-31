@@ -1,0 +1,1 @@
+Flashy horizontal infinite slider with action buttons & toggle autoplay.
